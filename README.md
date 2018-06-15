@@ -1,4 +1,4 @@
-![RUST](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg)
+![RUST](https://www.rust-lang.org/logos/rust-logo-256x256.png)
 ========
 # Chat Application with RUST
 Chat Application with RUST Client/Server Side in the repo :)
